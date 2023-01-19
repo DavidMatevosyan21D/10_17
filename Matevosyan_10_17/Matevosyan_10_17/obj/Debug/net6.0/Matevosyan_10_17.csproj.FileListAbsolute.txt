@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Matevosyan_10_17\Matevosyan_10_17\bin\Debug\net6.0\Matevosyan_10_17.exe
+C:\Users\user\source\repos\Matevosyan_10_17\Matevosyan_10_17\bin\Debug\net6.0\Matevosyan_10_17.deps.json
+C:\Users\user\source\repos\Matevosyan_10_17\Matevosyan_10_17\bin\Debug\net6.0\Matevosyan_10_17.runtimeconfig.json
+C:\Users\user\source\repos\Matevosyan_10_17\Matevosyan_10_17\bin\Debug\net6.0\Matevosyan_10_17.dll
+C:\Users\user\source\repos\Matevosyan_10_17\Matevosyan_10_17\bin\Debug\net6.0\Matevosyan_10_17.pdb
+C:\Users\user\source\repos\Matevosyan_10_17\Matevosyan_10_17\obj\Debug\net6.0\Matevosyan_10_17.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Matevosyan_10_17\Matevosyan_10_17\obj\Debug\net6.0\Matevosyan_10_17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Matevosyan_10_17\Matevosyan_10_17\obj\Debug\net6.0\Matevosyan_10_17.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Matevosyan_10_17\Matevosyan_10_17\obj\Debug\net6.0\Matevosyan_10_17.AssemblyInfo.cs
+C:\Users\user\source\repos\Matevosyan_10_17\Matevosyan_10_17\obj\Debug\net6.0\Matevosyan_10_17.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Matevosyan_10_17\Matevosyan_10_17\obj\Debug\net6.0\Matevosyan_10_17.dll
+C:\Users\user\source\repos\Matevosyan_10_17\Matevosyan_10_17\obj\Debug\net6.0\refint\Matevosyan_10_17.dll
+C:\Users\user\source\repos\Matevosyan_10_17\Matevosyan_10_17\obj\Debug\net6.0\Matevosyan_10_17.pdb
+C:\Users\user\source\repos\Matevosyan_10_17\Matevosyan_10_17\obj\Debug\net6.0\Matevosyan_10_17.genruntimeconfig.cache
+C:\Users\user\source\repos\Matevosyan_10_17\Matevosyan_10_17\obj\Debug\net6.0\ref\Matevosyan_10_17.dll
